@@ -38,4 +38,4 @@ class PruebaSuma(unittest.TestCase):
     def test_suma_sumandoNoNumerico_lanzaExcepcion(self):
         self.assertEqual(12, self.suma.operacionSuma(5, 7))
         with self.assertRaises(ValueError):
-            self.operacion.operacionSuma("a", 5)
+            self.suma.operacionSuma("a", 5)

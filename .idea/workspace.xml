@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="AZUL: Suma de dos numeros" />
+    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="ROJO: Un sumando no numérico">
+      <change beforePath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706466878027</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ROJO: Un sumando no numérico">
+      <option name="closed" value="true" />
+      <created>1706467109947</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706467109947</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,7 +172,8 @@
     <MESSAGE value="ROJO: Suma de dos numeros" />
     <MESSAGE value="VERDE: Suma de dos numeros" />
     <MESSAGE value="AZUL: Suma de dos numeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="AZUL: Suma de dos numeros" />
+    <MESSAGE value="ROJO: Un sumando no numérico" />
+    <option name="LAST_COMMIT_MESSAGE" value="ROJO: Un sumando no numérico" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
