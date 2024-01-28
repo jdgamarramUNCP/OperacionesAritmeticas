@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OperacionesAritméticas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PruebaSuma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="Línea base del proyecto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PruebaSuma.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/PruebaSuma.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +38,15 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Python/Proyectos/OperacionesAritméticas"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Proyectos\OperacionesAritméticas" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OperacionesAritméticas" />
@@ -90,7 +87,20 @@
       <option name="presentableId" value="Default" />
       <updated>1706461744919</updated>
     </task>
+    <task id="LOCAL-00001" summary="Línea base del proyecto">
+      <option name="closed" value="true" />
+      <created>1706462451904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706462451904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Línea base del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Línea base del proyecto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
