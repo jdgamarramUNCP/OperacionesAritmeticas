@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="ROJO: Suma de dos numeros">
-      <change beforePath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" afterDir="false" />
-    </list>
+    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="AZUL: Suma de dos numeros" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,15 +32,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in OperacionesTest.py.executor": "Run",
     "Python tests.Python tests in PruebaSuma.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Python/Proyectos/OperacionesAritméticas"
+    "last_opened_file_path": "D:/Python/Proyectos/OperacionesAritméticas/test"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Proyectos\OperacionesAritméticas\test" />
       <recent name="D:\Python\Proyectos\OperacionesAritméticas" />
     </key>
   </component>
@@ -69,6 +69,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in OperacionesTest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="OperacionesAritméticas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/OperacionesTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in PruebaSuma.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="OperacionesAritméticas" />
       <option name="ENV_FILES" value="" />
@@ -87,6 +102,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in PruebaSuma.py" />
+        <item itemvalue="Python tests.Python tests in OperacionesTest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -122,13 +138,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706465281543</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="VERDE: Suma de dos numeros">
+      <option name="closed" value="true" />
+      <created>1706465529940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706465529940</updated>
+    </task>
+    <task id="LOCAL-00004" summary="AZUL: Suma de dos numeros">
+      <option name="closed" value="true" />
+      <created>1706466878027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706466878027</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Línea base del proyecto" />
     <MESSAGE value="ROJO: Suma de dos numeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="ROJO: Suma de dos numeros" />
+    <MESSAGE value="VERDE: Suma de dos numeros" />
+    <MESSAGE value="AZUL: Suma de dos numeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="AZUL: Suma de dos numeros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -137,6 +171,10 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/OperacionesTest.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
