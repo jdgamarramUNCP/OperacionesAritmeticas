@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="Línea base del proyecto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0207e4b2-791f-448b-8a8c-cf32b2334eea" name="Changes" comment="ROJO: Suma de dos numeros">
       <change beforePath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/OperacionesAritmeticas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/PruebaSuma.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/PruebaSuma.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in PruebaSuma.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -47,7 +46,7 @@
       <recent name="D:\Python\Proyectos\OperacionesAritméticas" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in PruebaSuma.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OperacionesAritméticas" />
       <option name="ENV_FILES" value="" />
@@ -70,6 +69,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in PruebaSuma.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="OperacionesAritméticas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/PruebaSuma.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in PruebaSuma.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -95,12 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706462451904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ROJO: Suma de dos numeros">
+      <option name="closed" value="true" />
+      <created>1706465281543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706465281543</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Línea base del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Línea base del proyecto" />
+    <MESSAGE value="ROJO: Suma de dos numeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="ROJO: Suma de dos numeros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
