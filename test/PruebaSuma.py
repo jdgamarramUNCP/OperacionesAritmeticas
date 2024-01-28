@@ -39,3 +39,8 @@ class PruebaSuma(unittest.TestCase):
         self.assertEqual(12, self.suma.operacionSuma(5, 7))
         with self.assertRaises(ValueError):
             self.suma.operacionSuma("a", 5)
+
+    def test_suma_unSumandoFlotante_lanzaExcepcion(self):
+        self.assertEqual(12, self.suma.operacionSuma(5, 7))
+        with self.assertRaises(ValueError):
+            self.suma.operacionSuma("3,6", 4)

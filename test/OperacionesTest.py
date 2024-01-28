@@ -23,7 +23,7 @@ class OperacionesTest ( unittest.TestCase ) :
         self.assertRaises(ValueError, self.operacion.operacionSuma, "5", 7)
 
     def test_3_noPuedo_sumar_int_y_str ( self ) :
-        self.assertRaises (TypeError, Operaciones.operacionSuma, 1, '1')
+        self.assertRaises (ValueError, self.operacion.operacionSuma, 1, '1')
 
     def test_4_noPuedo_sumar_int_y_str ( self ) :
         with self.assertRaises ( TypeError ) :
